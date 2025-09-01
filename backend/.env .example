@@ -1,0 +1,4 @@
+# Rename this to .env and fill in your values
+OPENWEATHER_API_KEY=your_openweathermap_api_key_here  # Get from openweathermap.org
+AUTH0_DOMAIN=your_auth0_domain_here  # e.g., dev-abc123.us.auth0.com
+AUTH0_AUDIENCE=your_auth0_api_audience_here  # e.g., https://your-api-identifier
